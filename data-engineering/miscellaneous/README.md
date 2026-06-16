@@ -65,3 +65,5 @@ spark.sql("DROP TABLE IF EXISTS default.default.test_table_prop")
 
 - Spark SQL `ALTER TABLE ... SET/UNSET TBLPROPERTIES`:
   https://spark.apache.org/docs/latest/sql-ref-syntax-ddl-alter-table.html
+- Spark SQL `SHOW TBLPROPERTIES`:
+  https://spark.apache.org/docs/latest/sql-ref-syntax-aux-show-tblproperties.html
